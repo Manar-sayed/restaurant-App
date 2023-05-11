@@ -1,0 +1,103 @@
+
+body{
+    background-image: url("https://i.pinimg.com/236x/87/d8/dc/87d8dc0495f32e8dd3bda359c7b00f0d.jpg");
+    /*filter: blur(20px);
+      opacity: .1;
+    */
+    text-align: r;
+
+    background-color: black;
+    
+}
+.diva{
+    text-align: right;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+a{
+    color: white;
+    font-size: 18;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+    margin-right: 40px;
+    text-decoration: none;
+    letter-spacing: 3;
+    
+}
+a:hover{
+ 
+    border-radius: 10px;
+    color: rgb(231, 157, 21);
+}
+.firstChild {
+    text-align: left;
+    background-color:white;
+   border-top-left-radius: 40px;
+   border-top-right-radius: 40px;
+   border-bottom-left-radius: 40px;
+  box-shadow: 1px 10px 20px rgb(141, 138, 127);
+   width: 70%;
+   height: 76%;
+   margin: 4% auto;
+  
+}
+#tit{
+    text-align: center;
+     color: white;
+   font-size: 40px;
+   letter-spacing: 2;
+   font-weight: bold;
+   margin-top: 40px;
+  
+ }
+#cart{
+    width: 230px;
+    height: 260px;
+    background-image: url("https://i.pinimg.com/236x/14/ae/5b/14ae5bf1d1afcb46610f726c3433e2db.jpg");
+    background-color: aqua;
+    border-radius: 30px;
+    box-shadow: 0px 2px 4px rgb(175, 165, 143);
+     margin-left: 60px;
+     margin-right: 20px;
+     text-align: left;
+     margin-top: 40px;
+  
+}
+#pcart{
+    margin-left: 20px;
+    padding-top: 10px;
+    letter-spacing: 2;
+    color: rgb(255, 140, 0);
+    font-size: 20px;
+}
+.bgcart{
+    display: inline-block;
+}
+#bgcartt{
+    text-align: center;
+}
+button{
+    background-color: black;
+        color: rgb(216, 132, 5);
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        letter-spacing: 3;
+        font-size: 14px;
+        border-radius: 50px;
+        text-align: center;
+        width: 12%;
+        height: 7%;
+        border: 1px solid rgb(216, 132, 5);
+        font-weight: 600;
+}
+    .butt{
+        text-align: center;
+        margin-top: 60px;
+        margin-left: 25px;
+        margin-bottom: 40px;
+      
+}
+button:hover{
+    cursor: pointer;
+}
+
